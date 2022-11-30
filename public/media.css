@@ -1,0 +1,8 @@
+@media only screen and (max-width: 500px) {
+  html > body #container main .wrapper__full-head,
+body #app #container main .wrapper__full-head {
+    transform: scale(0.75);
+  }
+}
+
+/*# sourceMappingURL=media.css.map */

@@ -1,0 +1,1292 @@
+{
+  "profiles": [
+    {
+      "name": "Bruce Lee",
+      "desc": "Martial Arts Icon/Actor",
+      "bool": false,
+      "photo": "drop/bl.png",
+      "fullDesc": "attended University of Washington, but did not graduate."
+    },
+    {
+      "name": "Nichola Tesla",
+      "desc": "Serbian-American Inventor and Electrical Engineer",
+      "bool": false,
+      "photo": "drop/nt.png",
+      "fullDesc": "attended Graz University of Technology, but did not graduate."
+    },
+     {
+      "name": "Michael Franzese",
+      "desc": "Former Mafia Crime Captain, Writer, and Motivational Speaker",
+      "bool": false,
+      "photo": "drop/mf.png",
+      "fullDesc": "attended Hofsta University, but did not graduate."
+    },
+     {
+      "name": "Edgar Allen Poe",
+      "desc": "Poet, Writer, Literary Critic",
+      "bool": false,
+      "photo": "drop/ep.png",
+      "fullDesc": "attended University of Virginia and West Point, but did not graduate."
+    },
+    {
+      "name": "David Copperfield",
+      "desc": "Magician and Beach Resort Hotelier",
+      "bool": false,
+      "photo": "drop/dac.png",
+      "fullDesc": "attended Fordham University, but did not graduate."
+    },
+    {
+      "name": "Michael Moore",
+      "desc": "Documentary Film Maker and Left-Wing Activist",
+      "bool": false,
+      "photo": "drop/mim.png",
+      "fullDesc": "attended University of Michigan at Flint, but did not graduate."
+    },
+    {
+      "name": "Winston Churchill",
+      "desc": "Former Prime Minister of Great Britain",
+      "bool": false,
+      "photo": "drop/wc.png",
+      "fullDesc": "did not attend university, but did attend officer training college."
+    },
+    {
+      "name": "David Geffen",
+      "desc": "Media Mogul and Cofounder of DreamWorks Studios",
+      "bool": false,
+      "photo": "drop/dg.png",
+      "fullDesc": "attended University of Texas at Austin, but did not graduate."
+    },
+    {
+      "name": "Jon Peters",
+      "desc": "Celebrity Hairdresser and Film Producer",
+      "bool": false,
+      "photo": "drop/jop.png",
+      "fullDesc": "did not attend university, but did attend beauty/hair school"
+    },
+    {
+      "name": "Stan Lee",
+      "desc": "Comic Book Writer, Publisher, and Producer",
+      "bool": false,
+      "photo": "drop/sl.png",
+      "fullDesc": "did not attend college."
+    },
+    {
+      "name": "Prince Harry",
+      "desc": "Duke of Sussex, British Military Officer",
+      "bool": false,
+      "photo": "drop/ph.png",
+      "fullDesc": "did not attend university."
+    },
+    {
+      "name": "Shimon Peres",
+      "desc": "Former Prime Minister of Israel and Winner of The Nobel Peace Prize",
+      "bool": false,
+      "photo": "drop/shp.png",
+      "fullDesc": "attended New School, NYU, and Harvard, but did not graduate."
+    },
+    {
+      "name": "Penn Jillette",
+      "desc": "Magician and TV Personality",
+      "bool": false,
+      "photo": "drop/pej.png",
+      "fullDesc": "did not attend university, but did attend clown college."
+    },
+    {
+      "name": "Quincy Jones",
+      "desc": "Musician, Record Producer, Film & TV Producer",
+      "bool": false,
+      "photo": "drop/qj.png",
+      "fullDesc": "attended Seattle University and Berklee College of Music, but did not graduate."
+    },
+    {
+      "name": "David Neeleman",
+      "desc": "Founder of JetBlue Airlines",
+      "bool": false,
+      "photo": "drop/dan.png",
+      "fullDesc": "attended University of Utah, but did not graduate."
+    },
+    {
+      "name": "L. Ron Hubbard",
+      "desc": "Founder of the Church of Scientology",
+      "bool": false,
+      "photo": "drop/lh.png",
+      "fullDesc": "attended George Washington University, but did not graduate."
+    },
+    {
+      "name": "Don King",
+      "desc": "Boxing Promoter",
+      "bool": false,
+      "photo": "drop/dk.png",
+      "fullDesc": "attended Kent State University, but did not graduate."
+    },
+    {
+      "name": "Rick Harrison",
+      "desc": "Owner of Gold and Silver Pawn Shop /TV Personality",
+      "bool": false,
+      "photo": "drop/rh.png",
+      "fullDesc": "did not attend college."
+    },
+    {
+      "name": "Mark Meadows",
+      "desc": "Politician / Former Chief of Staff to President Trump",
+      "bool": false,
+      "photo": "drop/mm.png",
+      "fullDesc": "attended University of South Florida. Earned AA (2 year) degree"
+    },
+    {
+      "name": "Yoko Ono",
+      "desc": "Musician and Wife of John Lennon",
+      "bool": false,
+      "photo": "drop/yo.png",
+      "fullDesc": "attended Gakushuin University and Sarah Lawrence College, but did not graduate."
+    },
+    {
+      "name": "Sky Dayton",
+      "desc": "Tech Entrepreneur + Founder of Earthlink",
+      "bool": false,
+      "photo": "drop/sd.png",
+      "fullDesc": "did not attend college."
+    },
+    {
+      "name": "Martha Raddatz",
+      "desc": "ABC News Anchor",
+      "bool": false,
+      "photo": "drop/mr.png",
+      "fullDesc": "attended University of Utah, but did not graduate."
+    },
+    {
+      "name": "Michael Chang",
+      "desc": "Former Professional Tennis Player",
+      "bool": false,
+      "photo": "drop/mic.png",
+      "fullDesc": "attended Biola University, but did not graduate."
+    },
+    {
+      "name": "Louis Farrakhan",
+      "desc": "Minister Leader of the Nation of Islam",
+      "bool": false,
+      "photo": "drop/lf.png",
+      "fullDesc": "attended Winston-Salem State College, but did not graduate."
+    },
+    {
+      "name": "Jack C. Taylor",
+      "desc": "Founder of Enterprise Car Rentals",
+      "bool": false,
+      "photo": "drop/jt.png",
+      "fullDesc": "attended Washington University, but did not graduate."
+    },
+    {
+      "name": "Dana White",
+      "desc": "President of the UFC",
+      "bool": false,
+      "photo": "drop/dw.png",
+      "fullDesc": "attended Quincy College and UMass, Boston, but did not graduate"
+    },
+    {
+      "name": "Barbra Streisand",
+      "desc": "Actress, Singer, and Broadway Icon'",
+      "bool": false,
+      "photo": "drop/bs.png",
+      "fullDesc": "did not attend college"
+    },
+    {
+      "name": "Hunter S. Thompson",
+      "desc": "Author/Journalist",
+      "bool": false,
+      "photo": "drop/hut.png",
+      "fullDesc": "did not attend college."
+    },
+    {
+      "name": "Trevor Milton",
+      "desc": "Founder and Former CEO of Nichola Corporation",
+      "bool": false,
+      "photo": "drop/tm.png",
+      "fullDesc": "attended Utah Valley State College, but did not graduate."
+    },
+    {
+      "name": "Nayib Bukele",
+      "desc": "President of El Salvador",
+      "bool": false,
+      "photo": "drop/nb.png",
+      "fullDesc": "attended Central American University, but did not graduate."
+    },
+    {
+      "name": "Paul Simon",
+      "desc": "Former Senator from Illinois",
+      "bool": false,
+      "photo": "drop/ps.png",
+      "fullDesc": "attended Concordia University and University of Oregon, but did not graduate."
+    },
+    {
+      "name": "Jesse Ventura",
+      "desc": "Former Governor of Minnesota and Former Wrestler",
+      "bool": false,
+      "photo": "drop/jv.png",
+      "fullDesc": "attended North Hennepin Community College (Junior College)"
+    },
+    {
+      "name": "Karl Rove",
+      "desc": "Political Advisor/Repubican Strategist",
+      "bool": false,
+      "photo": "drop/kr.png",
+      "fullDesc": "attended University of Utah,Texas,Maryland, and George Mason University, but did not graduate."
+    },
+    {
+      "name": "Scott Walker",
+      "desc": "Former Governor of Wisconsin",
+      "bool": false,
+      "photo": "drop/sw.png",
+      "fullDesc": "attended Marquette University, but did not graduate."
+    },
+    {
+      "name": "Roger Clinton",
+      "desc": "Musician | Brother of President Bill Clinton",
+      "bool": false,
+      "photo": "drop/rc.png",
+      "fullDesc": "did not attend college."
+    },
+    {
+      "name": "Anthony Bourdain",
+      "desc": "Celebrity Chef/Author/TV Host",
+      "bool": false,
+      "photo": "drop/a_b.png",
+      "fullDesc": "attended Vassar College, but did not graduate."
+    },
+    {
+      "name": "Frank Lloyd Wright",
+      "desc": "American Architect",
+      "bool": false,
+      "photo": "drop/fw.png",
+      "fullDesc": "attended University of Wisconsin, but did not graduate."
+    },
+    {
+      "name": "Mark Twain",
+      "desc": "Novelist/ Author of \"Tom Sawyer\"",
+      "bool": false,
+      "photo": "drop/mt.png",
+      "fullDesc": "did not attend college."
+    },
+    {
+      "name": "Charles Dickens",
+      "desc": "Novelist/ Author of \"Christmas Carol\"",
+      "bool": false,
+      "photo": "drop/cd.png",
+      "fullDesc": "did not attend college."
+    },
+    {
+      "name": "Evo Morales",
+      "desc": "Former President of Bolivia",
+      "bool": false,
+      "photo": "drop/em.png",
+      "fullDesc": "did not attend college."
+    },
+    {
+      "name": "Edward Snowden",
+      "desc": "NSA Security Consultant/Whistleblower",
+      "bool": false,
+      "photo": "drop/es.png",
+      "fullDesc": "attended Anne Arundel Community College (Junior College)"
+    },
+    {
+      "name": "Joe Rogan",
+      "desc": "Podcaster, Comedian, MMA Commentator",
+      "bool": false,
+      "photo": "drop/jr.png",
+      "fullDesc": "attended UMass, Boston, but did not graduate."
+    },
+    {
+      "name": "Sir John Major",
+      "desc": "Former Prime Minister of Great Britain",
+      "bool": false,
+      "photo": "drop/jm.png",
+      "fullDesc": "did not attend college."
+    },
+    {
+      "name": "Daniel Negreanu",
+      "desc": "World Champion Poker Player",
+      "bool": false,
+      "photo": "drop/dn.png",
+      "fullDesc": "did not attend college."
+    },
+    {
+      "name": "Rush Limbaugh",
+      "desc": "Radio Host/Political Commentator",
+      "bool": false,
+      "photo": "drop/rlim.png",
+      "fullDesc": "attended Southeast Missouri State University, but did not graduate."
+    },
+    {
+      "name": "Joel Osteen",
+      "desc": "Televangelist/Author/Pastor",
+      "bool": false,
+      "photo": "drop/jo.png",
+      "fullDesc": "attended Oral Roberts University, but did not graduate."
+    },
+    {
+      "name": "Peter Jennings",
+      "desc": "Former News Anchor/Journalist",
+      "bool": false,
+      "photo": "drop/pj.png",
+      "fullDesc": "attended Trinity College School, Carleton University, and University of Ottawa, but did not graduate."
+    },
+    {
+      "name": "Michael Jordan",
+      "desc": "Former NBA Basketball Player",
+      "bool": false,
+      "photo": "drop/mj.png",
+      "fullDesc": "attended University of North Carolina, but did not graduate."
+    },
+    {
+      "name": "Sean Hannity",
+      "desc": "TV/Radio Host/Political Commentator",
+      "bool": false,
+      "photo": "drop/sh.png",
+      "fullDesc": "attended New York University and Adelphi University, but did not graduate."
+    },
+    {
+      "name": "Lisa Ling",
+      "desc": "Journalist/TV Personality",
+      "bool": false,
+      "photo": "drop/ll.png",
+      "fullDesc": "attended University of Southern California, but did not graduate."
+    },
+    {
+      "name": "Jack Kerouac",
+      "desc": "Novelist/Poet",
+      "bool": false,
+      "photo": "drop/jk.png",
+      "fullDesc": "attended Columbia University, but did not graduate."
+    },
+    {
+      "name": "Jane Goodall",
+      "desc": "English Primatologist and Anthropologist",
+      "bool": false,
+      "photo": "drop/jg.png",
+      "fullDesc": "never attended undergraduate college ( earned a PhD without bachelors degree from Cambridge University)"
+    },
+    {
+      "name": "John Hughes",
+      "desc": "Film Director/Producer/Screenwriter",
+      "bool": false,
+      "photo": "drop/jh.png",
+      "fullDesc": "attended University of Arizona, but did not graduate."
+    },
+    {
+      "name": "Sarah Silverman",
+      "desc": "Comedian, Actress, and Writer",
+      "bool": false,
+      "photo": "drop/ss.png",
+      "fullDesc": "attended NYU, but did not graduate."
+    },
+    {
+      "name": "Michael Caine",
+      "desc": "British Actor",
+      "bool": false,
+      "photo": "drop/mc.png",
+      "fullDesc": "did not attend college."
+    },
+    {
+      "name": "Mikhail Kalashnikov",
+      "desc": "Russian Military Engineer/ Inventor of the AK-47 Assault Riffle",
+      "bool": false,
+      "photo": "drop/mk.png",
+      "fullDesc": "did not attend college."
+    },
+    {
+      "name": "Maya Angelou",
+      "desc": "Author/Poet/Professor",
+      "bool": false,
+      "photo": "drop/ma.png",
+      "fullDesc": "did not attend college."
+    },
+    {
+      "name": "Thomas Edison",
+      "desc": "American Inventor",
+      "bool": false,
+      "photo": "drop/te.png",
+      "fullDesc": "attended Cooper Union, but did not graduate."
+    },
+    {
+      "name": "Steve Jobs",
+      "desc": "Co-Founder of Apple Inc.",
+      "bool": false,
+      "photo": "drop/sj.png",
+      "fullDesc": "attended Reed College, but did not graduate."
+    },
+    {
+      "name": "Ralph Lauren",
+      "desc": "Fashion Icon/Founder of Ralph Lauren Corporation",
+      "bool": false,
+      "photo": "drop/rl.png",
+      "fullDesc": "attended Baruch College, but did not graduate."
+    },
+    {
+      "name": "Walt Disney",
+      "desc": "Founder of The Disney Company",
+      "bool": false,
+      "photo": "drop/wd.png",
+      "fullDesc": "attended Kansas City Art Institute, but did not graduate."
+    },
+    {
+      "name": "Richard Branson",
+      "desc": "Founder of Virgin Group of Companies",
+      "bool": false,
+      "photo": "drop/rb.png",
+      "fullDesc": "did not attend college."
+    },
+    {
+      "name": "Sean Parker",
+      "desc": "Founder of Napster",
+      "bool": false,
+      "photo": "drop/sp.png",
+      "fullDesc": "did not attend college."
+    },
+    {
+      "name": "Glenn Beck",
+      "desc": "Radio Host, Political Commentator",
+      "bool": false,
+      "photo": "drop/gb.png",
+      "fullDesc": "did not attend college."
+    },
+    {
+      "name": "Wilbur Wright",
+      "desc": "Inventor of the Airplane",
+      "bool": false,
+      "photo": "drop/ww.png",
+      "fullDesc": "did not attend college."
+    },
+    {
+      "name": "Brian Williams",
+      "desc": "Journalist/TV Anchorman",
+      "bool": false,
+      "photo": "drop/bw.png",
+      "fullDesc": "attended Catholic University and George Washington University, but did not graduate."
+    },
+    {
+      "name": "Harper Lee",
+      "desc": "Novelist/Author of \"To Kill a Mockingbird\"",
+      "bool": false,
+      "photo": "drop/hl.png",
+      "fullDesc": "attended Huntingdon College and University of Alabama, but did not graduate."
+    },
+    {
+      "name": "Kim Kardashian",
+      "desc": "Actress and Social-Media Influencer",
+      "bool": false,
+      "photo": "drop/kk.png",
+      "fullDesc": "did not attend college - (self-studying for California Bar Exam)"
+    },
+    {
+      "name": "Michael Diamond",
+      "desc": "Founding Member of the Beastie Boys",
+      "bool": false,
+      "photo": "drop/md.png",
+      "fullDesc": "attended Vassar College, but did not not graduate. "
+    },
+    {
+      "name": "Al Sharpton",
+      "desc": "Civil Rights Activist and Baptist Minister",
+      "bool": false,
+      "photo": "drop/as.png",
+      "fullDesc": "attended  Brooklyn College, but did not graduate."
+    },
+    {
+      "name": "David Choe",
+      "desc": "American Artist and Online Media Producer",
+      "bool": false,
+      "photo": "drop/dc.png",
+      "fullDesc": "attended California College of the Arts, but did not graduate."
+    },
+    {
+      "name": "William Faulkner",
+      "desc": "Novelist/Nobel Prize Laureate",
+      "bool": false,
+      "photo": "drop/wf.png",
+      "fullDesc": "attended University of Mississippi, but did not graduate."
+    },
+    {
+      "name": "Dr. Rand Paul",
+      "desc": "American Politician/Physician",
+      "bool": false,
+      "photo": "drop/rp.png",
+      "fullDesc": "attended Baylor University, but did not graduate. (earned an MD without a Bachelors from Duke University)"
+    },
+    {
+      "name": "Dave Thomas",
+      "desc": "Founder of Wendys Restaurant Chain",
+      "bool": false,
+      "photo": "drop/dt.png",
+      "fullDesc": "did not attend college."
+    },
+    {
+      "name": "Barry Diller",
+      "desc": "TV/Media Mogul",
+      "bool": false,
+      "photo": "drop/bd.png",
+      "fullDesc": "attended UCLA, but did not graduate."
+    },
+    {
+      "name": "Guglielmo Marconi",
+      "desc": "Italian Nobel Prize Winner in Physics/Inventor of the Radio",
+      "bool": false,
+      "photo": "drop/gm.png",
+      "fullDesc": "attended University of Bologna, but did not receive a degree."
+    },
+    {
+      "name": "Morley Safer",
+      "desc": "Former Journalist/Host of \"60 Minutes\"",
+      "bool": false,
+      "photo": "drop/ms.png",
+      "fullDesc": "attended the University of Western Ontario, but did not graduate."
+    },
+    {
+      "name": "Vidal Sassoon",
+      "desc": "Hairstylist/Founder of Vidal Sassoon Hair Care",
+      "bool": false,
+      "photo": "drop/vs.png",
+      "fullDesc": "did not attend college."
+    },
+    {
+      "name": "Russell Simmons",
+      "desc": "Hip Hop Mogel/CEO of Rush Communications",
+      "bool": false,
+      "photo": "drop/rs.png",
+      "fullDesc": "attended City College of New York, but did not graduate."
+    },
+    {
+      "name": "Jim Skinner",
+      "desc": "Former CEO of McDonalds",
+      "bool": false,
+      "photo": "drop/js.png",
+      "fullDesc": "attended Roosevelt University, but did not graduate."
+    },
+    {
+      "name": "Artie Lange",
+      "desc": "Radio Host/Former Sidekick of Howard Stern Show",
+      "bool": false,
+      "photo": "drop/al.png",
+      "fullDesc": "attended Seton Hall University, but did not graduate."
+    },
+    {
+      "name": "Ron Reagan",
+      "desc": "Radio Host/Son of President Ronald Reagan",
+      "bool": false,
+      "photo": "drop/rr.png",
+      "fullDesc": "attended Yale University, but did not graduate."
+    },
+    {
+      "name": "Quentin Tarantino",
+      "desc": "Film Producer/Director/Screenwriter",
+      "bool": false,
+      "photo": "drop/qt.png",
+      "fullDesc": "did not attend college."
+    },
+    {
+      "name": "Malcolm X",
+      "desc": "Political Activist",
+      "bool": false,
+      "photo": "drop/mx.png",
+      "fullDesc": "did not attend college."
+    },
+    {
+      "name": "Travis Kalanick",
+      "desc": "Founder and CEO of the Uber",
+      "bool": false,
+      "photo": "drop/tk.png",
+      "fullDesc": "attended UCLA, but did not graduate."
+    },
+    {
+      "name": "Harry S. Truman",
+      "desc": "33rd President of United States",
+      "bool": false,
+      "photo": "drop/ht.png",
+      "fullDesc": "attended Kansas City Law School, but did not graduate."
+    },
+    {
+      "name": "Cesar Chavez",
+      "desc": "Labor Leader and Co-Founder of The National Farm Workers Association",
+      "bool": false,
+      "photo": "drop/cc.png",
+      "fullDesc": "did not attend college."
+    },
+    {
+      "name": "Scott Carpenter",
+      "desc": "NASA Astronaut",
+      "bool": false,
+      "photo": "drop/sc.png",
+      "fullDesc": "attended University of Colorado, but did not graduate. (later awarded a BS degree for work experience)"
+    },
+    {
+      "name": "Steve Young",
+      "desc": "Former NFL Football Quarterback",
+      "bool": true,
+      "photo": "law/sy.png",
+      "fullDesc": "earned a JD from of Brigham Young University."
+    },
+    {
+      "name": "Amal Clooney",
+      "desc": "Activist and Wife of George Clooney",
+      "bool": true,
+      "photo": "law/amc.png",
+      "fullDesc": "earned an LLM from of NYU Law School."
+    },
+    {
+      "name": "Eddie Huang",
+      "desc": "Restauranteur/Writer/TV Personality",
+      "bool": true,
+      "photo": "law/ehg.png",
+      "fullDesc": "earned a JD from Cardozo School of Law at Yeshiva University."
+    },
+    {
+      "name": "Rodrigo Duterte",
+      "desc": "Former President of the Philippines",
+      "bool": true,
+      "photo": "law/rd.png",
+      "fullDesc": "earned an LLB degree from San Beda College of Law"
+    },
+    {
+      "name": "Peter Thiel",
+      "desc": "Co-Founder of PayPal/Venture Capitalist",
+      "bool": true,
+      "photo": "law/pt.png",
+      "fullDesc": "earned a JD from Stanford University."
+    },
+    {
+      "name": "Col. Harlan Sanders",
+      "desc": "Founder of KFC Chicken Restaurant",
+      "bool": true,
+      "photo": "law/hs.png",
+      "fullDesc": "studied law from correspondence school and practiced law as a trial attorney."
+    },
+    {
+      "name": "David Otunga",
+      "desc": "Former Professional WWE wrestler",
+      "bool": true,
+      "photo": "law/do.png",
+      "fullDesc": "earned a JD from Harvard Law School."
+    },
+    {
+      "name": "Howard Cosell",
+      "desc": "TV Sports Journalist",
+      "bool": true,
+      "photo": "law/hc.png",
+      "fullDesc": "earned a JD from New York University."
+    },
+    {
+      "name": "Charlie Rose",
+      "desc": "TV Talk Show Host and Journalist",
+      "bool": true,
+      "photo": "law/cr.png",
+      "fullDesc": "earned a JD from Duke University."
+    },
+    {
+      "name": "Van Jones",
+      "desc": "CNN News Contributor and Political Commentator",
+      "bool": true,
+      "photo": "law/vj.png",
+      "fullDesc": "earned a JD from Yale Law School."
+    },
+    {
+      "name": "Daniel Lubetzky",
+      "desc": "Founder of Kind Bars and Shark Tank Investor",
+      "bool": true,
+      "photo": "law/dl.png",
+      "fullDesc": "earned a JD from Stanford Law School."
+    },
+    {
+      "name": "Rebel Wilson",
+      "desc": "Movie Actress/Comedian",
+      "bool": true,
+      "photo": "law/rw.png",
+      "fullDesc": "earned an LLB from University of New South Wales."
+    },
+    {
+      "name": "Jack Chen",
+      "desc": "Blind Software Engineer",
+      "bool": true,
+      "photo": "law/jac.png",
+      "fullDesc": "earned a JD from Fordham Law School"
+    },
+    {
+      "name": "Catherine DeOrio",
+      "desc": "Food Writer, Chef, TV Personality",
+      "bool": true,
+      "photo": "law/cad.png",
+      "fullDesc": "earned a JD from Loyola University of Chicago"
+    },
+    {
+      "name": "B. R. Ambedkar",
+      "desc": "Indian Political Leader and Advocate for Dalits Caste",
+      "bool": true,
+      "photo": "law/bra.png",
+      "fullDesc": "earned law degree at Gray's Inn, London"
+    },
+    {
+      "name": "Steve DeCaprio",
+      "desc": "Former Homeless Musician and Activist for Squatter Rights",
+      "bool": true,
+      "photo": "law/sd.png",
+      "fullDesc": "passed California Bar Exam Through Self Study"
+    },
+    {
+      "name": "Timothy Wind",
+      "desc": "Former LAPD Officer Acquitted In The Beating of Rodney King",
+      "bool": true,
+      "photo": "law/tw.png",
+      "fullDesc": "earned a JD from Indiana University."
+    },
+    {
+      "name": "Leon Panetta",
+      "desc": "Former Director of the CIA Under President Obama",
+      "bool": true,
+      "photo": "law/lp.png",
+      "fullDesc": "earned a JD from Santa Clara University School of Law."
+    },
+    {
+      "name": "Gerald Butler",
+      "desc": "Scottish Actor",
+      "bool": true,
+      "photo": "law/gb.png",
+      "fullDesc": "earned Bachelor of Law at University of Glasglow"
+    },
+    {
+      "name": "Iyanla Vanzant",
+      "desc": "Author/TV personality/Spiritual Teacher",
+      "bool": true,
+      "photo": "law/iv.png",
+      "fullDesc": "earned a JD from City University of New York."
+    },
+    {
+      "name": "Val Ackerman",
+      "desc": "Former President of the Womens National Basketball Association (WNBA)",
+      "bool": true,
+      "photo": "law/va.png",
+      "fullDesc": "earned a JD from UCLA Law School."
+    },
+    {
+      "name": "Cris Collinsworth",
+      "desc": "Former (NFL) Football Player/Sports commentator",
+      "bool": true,
+      "photo": "law/cc.png",
+      "fullDesc": "earned a JD from University of Cincinnati College of Law."
+    },
+    {
+      "name": "Fidel Castro",
+      "desc": "Former President of Cuba/Revolutionary Leader",
+      "bool": true,
+      "photo": "law/fc.png",
+      "fullDesc": "earned a JD from University of Havana."
+    },
+    {
+      "name": "William Henry Gates Sr.",
+      "desc": "Philanthropist and Father of Bill Gates",
+      "bool": true,
+      "photo": "law/wg.png",
+      "fullDesc": "earned a JD from University of Washington."
+    },
+    {
+      "name": "Chris Zorich",
+      "desc": "Former Chicago Bears Defensive Lineman",
+      "bool": true,
+      "photo": "law/cz.png",
+      "fullDesc": "earned a JD from Notre Dame College of Law."
+    },
+    {
+      "name": "Ronan Farrow",
+      "desc": "Pulitzer Prize Winning Journalist and Son of Mia Farrow and Woody Allen",
+      "bool": true,
+      "photo": "law/rf.png",
+      "fullDesc": "earned a JD from Yale Law School"
+    },
+    {
+      "name": "Ronnie Cheng",
+      "desc": "Standup Comedian and Correspondent on The Daily Show",
+      "bool": true,
+      "photo": "law/rc.png",
+      "fullDesc": "earned an LLB from University of Melbourne."
+    },
+    {
+      "name": "Vanessa Selbst",
+      "desc": "World Series of Poker Champion",
+      "bool": true,
+      "photo": "law/vs.png",
+      "fullDesc": "earned a JD from Yale Law School."
+    },
+    {
+      "name": "William Moulton Marston",
+      "desc": "Creator of \"Wonder Woman\" Comic Book Hero, Inventor, and Psychologist",
+      "bool": true,
+      "photo": "law/wm.png",
+      "fullDesc": "earned an LLB from Harvard Law School."
+    },
+     {
+      "name": "Arthur Muir",
+      "desc": "Oldest American to Climb Mount Everest (at age 75)",
+      "bool": true,
+      "photo": "law/am.png",
+      "fullDesc": "earned a JD from Northwestern University."
+    },
+    {
+      "name": "Greg Giraldo",
+      "desc": "Comedian / Roast Master",
+      "bool": true,
+      "photo": "law/gg.png",
+      "fullDesc": "earned a JD from Harvard Law School."
+    },
+    {
+      "name": "Jerry Falwell Jr.",
+      "desc": "Former President of Liberty University and Son of Televangelist, Jerry Falwell Sr.",
+      "bool": true,
+      "photo": "law/jf.png",
+      "fullDesc": "earned a JD from University of Virginia."
+    },
+    {
+      "name": "Elmer Stewart Rhodes",
+      "desc": "Founder of the Oath Keepers (Right Wing Militia Group)",
+      "bool": true,
+      "photo": "law/er.png",
+      "fullDesc": "earned a JD from Yale Law School."
+    },
+    {
+      "name": "Andrew Yang",
+      "desc": "Entrepreneur and Former Presidential Candidate of United States",
+      "bool": true,
+      "photo": "law/ay.png",
+      "fullDesc": "earned a JD from Columbia Law School."
+    },
+    {
+      "name": "Ed Hochuli",
+      "desc": "NFL Referree",
+      "bool": true,
+      "photo": "law/eh.png",
+      "fullDesc": "earned a JD from University of Arizona."
+    },
+    {
+      "name": "Jack M. Greenberg",
+      "desc": "Former CEO of McDonalds",
+      "bool": true,
+      "photo": "law/jag.png",
+      "fullDesc": "earned a JD from DePaul University"
+    },
+    {
+      "name": "Shon Hopwood",
+      "desc": "Convicted Bank Robber",
+      "bool": true,
+      "photo": "law/sh.png",
+      "fullDesc": "earned a JD from University of Washington and an LLM from Georgetown Law Center"
+    },
+    {
+      "name": "William Sanderson",
+      "desc": "TV Actor from \"Newhart\" TV Show",
+      "bool": true,
+      "photo": "law/wsh.png",
+      "fullDesc": "earned a JD from Memphis State University."
+    },
+    {
+      "name": "Colion Noir",
+      "desc": "Firearm Enthusiast and 2nd Amendment Advocate",
+      "bool": true,
+      "photo": "law/cn.png",
+      "fullDesc": "earned a JD from Texas Southern University."
+    },
+    {
+      "name": "Megyn Kelly",
+      "desc": "Journalist/ Political News Commentator",
+      "bool": true,
+      "photo": "law/mk.png",
+      "fullDesc": "earned a JD from State University of New York at Albany."
+    },
+    {
+      "name": "Lara Jill Miller",
+      "desc": "Former Child Star from \"Give me a Break\" TV Show",
+      "bool": true,
+      "photo": "law/lm.png",
+      "fullDesc": "earned a JD from Fordham University School of Law."
+    },
+    {
+      "name": "Liz Cheney",
+      "desc": "Congress Woman and Daughter of Dick Cheney",
+      "bool": true,
+      "photo": "law/lc.png",
+      "fullDesc": "earned a JD from University of Chicago"
+    },
+    {
+      "name": "Mills Lane",
+      "desc": "Former Boxer and Referee",
+      "bool": true,
+      "photo": "law/ml.png",
+      "fullDesc": "earned a JD from University of Utah School of Law."
+    },
+    {
+      "name": "Josh Saviano",
+      "desc": "Former Child Star from \"The Wonder Years\" TV show",
+      "bool": true,
+      "photo": "law/jsa.png",
+      "fullDesc": "earned a JD from Benjamin N. Cardozo School of Law."
+    },
+    {
+      "name": "Vicki Lovine",
+      "desc": "Former Playboy Playmate",
+      "bool": true,
+      "photo": "law/vl.png",
+      "fullDesc": "earned a JD from UC Hastings School of Law"
+    },
+    {
+      "name": "Geraldo Rivera",
+      "desc": "Journalist / TV Personality",
+      "bool": true,
+      "photo": "law/gr.png",
+      "fullDesc": "earned a JD from Brooklyn Law School."
+    },
+    {
+      "name": "Jeffrey Deskovic",
+      "desc": "Wrongfully Convicted of Rape and Murder as a Teenager",
+      "bool": true,
+      "photo": "law/jd.png",
+      "fullDesc": "earned a JD from Pace University Law School."
+    },
+    {
+      "name": "Lester Munson",
+      "desc": "Sports Analyst for ESPN",
+      "bool": true,
+      "photo": "law/lem.png",
+      "fullDesc": "earned a JD from University of Chicago."
+    },
+    {
+      "name": "Star Jones",
+      "desc": "TV Personality / Journalist",
+      "bool": true,
+      "photo": "law/sj.png",
+      "fullDesc": "earned a JD from University of Houston."
+    },
+    {
+      "name": "Marc Trestman",
+      "desc": "Former (NFL) Coach of the Chicago Bears",
+      "bool": true,
+      "photo": "law/mt.png",
+      "fullDesc": "earned a JD from University of Miami."
+    },
+    {
+      "name": "Nelson Mandela",
+      "desc": "First Black President of South Africa",
+      "bool": true,
+      "photo": "law/nm.png",
+      "fullDesc": "earned a Bachelor of Law from University of London through correspondence while in prison."
+    },
+    {
+      "name": "Mahatma Gandhi",
+      "desc": "Leader of the Indian Independence Movement",
+      "bool": true,
+      "photo": "law/mg.png",
+      "fullDesc": "earned an LLB from Honourable Society of the Inner Temple."
+    },
+    {
+      "name": "Jerry Springer",
+      "desc": "TV Shock Host / Former Mayor of Cincinnati",
+      "bool": true,
+      "photo": "law/js.png",
+      "fullDesc": "earned a JD from Northwestern University."
+    },
+    {
+      "name": "Caroline Kennedy",
+      "desc": "US Ambassador and Daughter of President John F. Kennedy",
+      "bool": true,
+      "photo": "law/cak.png",
+      "fullDesc": "earned a JD from Columbia University."
+    },
+    {
+      "name": "John Cleese",
+      "desc": "Comedian, Actor, Producer",
+      "bool": true,
+      "photo": "law/jc.png",
+      "fullDesc": "LLB from Cambridge University."
+    },
+    {
+      "name": "Ben Stein",
+      "desc": "Actor, Game Show Host, Speech Writer",
+      "bool": true,
+      "photo": "law/bs.png",
+      "fullDesc": "earned a JD from Yale Law School."
+    },
+    {
+      "name": "Julio Iglesias",
+      "desc": "Spanish Singer/Songwriter",
+      "bool": true,
+      "photo": "law/ji.png",
+      "fullDesc": "earned an LLB from Complutense University of Madrid."
+    },
+    {
+      "name": "Ozzie Nelson",
+      "desc": "Actor of \"The Adventures of Ozzie and Harriet\" TV show",
+      "bool": true,
+      "photo": "law/on.png",
+      "fullDesc": "earned a JD from Rutgers School of Law."
+    },
+    {
+      "name": "Andrea Bocelli",
+      "desc": "Opera Singer",
+      "bool": true,
+      "photo": "law/ab.png",
+      "fullDesc": "earned an LLB from University of Pisa."
+    },
+    {
+      "name": "David Stern",
+      "desc": "Former NBA commissioner",
+      "bool": true,
+      "photo": "law/ds.png",
+      "fullDesc": "earned a JD from Columbia Law School."
+    },
+    {
+      "name": "Wassily Kandinsky",
+      "desc": "Russian Artist",
+      "bool": true,
+      "photo": "law/wk.png",
+      "fullDesc": "Bachelor of Law from University of Moscow."
+    },
+    {
+      "name": "Tony La Russa",
+      "desc": "Former Baseball Player/MLB coach",
+      "bool": true,
+      "photo": "law/tl.png",
+      "fullDesc": "earned a JD from Florida State University College of Law."
+    },
+    {
+      "name": "Francis Scott Key",
+      "desc": "Composer of The National Anthem, \"Star-Spangled Banner\"",
+      "bool": true,
+      "photo": "law/fk.png",
+      "fullDesc": "earned law degree from St. Johns College."
+    },
+    {
+      "name": "Azhar Usman",
+      "desc": "Muslim American Comedian",
+      "bool": true,
+      "photo": "law/au.png",
+      "fullDesc": "earned a JD from University of Minnesota."
+    },
+    {
+      "name": "Richard Thalheim",
+      "desc": "Founder and Former CEO of The Sharper Image",
+      "bool": true,
+      "photo": "law/rit.png",
+      "fullDesc": "earned a JD from UC Hastings School of Law"
+    },
+    {
+      "name": "Holly Price",
+      "desc": "Porn Star",
+      "bool": true,
+      "photo": "law/hp.png",
+      "fullDesc": "earned a JD from Western State Law School."
+    },
+    {
+      "name": "Margaret Thatcher",
+      "desc": "Former Prime Minister of UK",
+      "bool": true,
+      "photo": "law/mat.png",
+      "fullDesc": "earned an LLB from Inns of Court School of Law."
+    },
+    {
+      "name": "Richard Anderson",
+      "desc": "Former CEO of Delta Airlines",
+      "bool": true,
+      "photo": "law/ra.png",
+      "fullDesc": "earned a JD from South Texas College of Law."
+    },
+    {
+      "name": "Benjamin Shapiro",
+      "desc": "Podcaster and Conservative Talk Show Host",
+      "bool": true,
+      "photo": "law/bes.png",
+      "fullDesc": "earned a JD from Harvard Law School"
+    },
+    {
+      "name": "John Chambers",
+      "desc": "Former CEO of Cisco Systems",
+      "bool": true,
+      "photo": "law/jch.png",
+      "fullDesc": "earned a JD from West Virginia University."
+    },
+    {
+      "name": "Phil Esbenshade",
+      "desc": "Former Professional Skateboarder",
+      "bool": true,
+      "photo": "law/pe.png",
+      "fullDesc": "earned a JD from University of La Verne"
+    },
+    {
+      "name": "Lloyd BlankFein",
+      "desc": "Former CEO of Goldman Sachs Group",
+      "bool": true,
+      "photo": "law/lb.png",
+      "fullDesc": "earned a JD from Harvard Law School."
+    },
+    {
+      "name": "Michael Apted",
+      "desc": "Film Director/Producer/Writer",
+      "bool": true,
+      "photo": "law/ma.png",
+      "fullDesc": "earned an LLB from Cambridge University."
+    },
+    {
+      "name": "Slobodan Milosevic",
+      "desc": "Former President of Serbia",
+      "bool": true,
+      "photo": "law/sm.png",
+      "fullDesc": "earned a law degree from University of Belgrade Faculty of Law"
+    },
+    {
+      "name": "Harold Washington",
+      "desc": "First African American Mayor of Chicago",
+      "bool": true,
+      "photo": "law/hw.png",
+      "fullDesc": "earned a JD from Northwestern University."
+    },
+    {
+      "name": "Cheslie Kryst",
+      "desc": "Miss USA Pageant Winner",
+      "bool": true,
+      "photo": "law/ck.png",
+      "fullDesc": "earned a JD from Wake Forest University."
+    },
+    {
+      "name": "David Kelley",
+      "desc": "TV Writer and Producer",
+      "bool": true,
+      "photo": "law/dak.png",
+      "fullDesc": "earned a JD from Boston University."
+    },
+    {
+      "name": "Gisela Colon",
+      "desc": "Canadian Artist/Sculpturist",
+      "bool": true,
+      "photo": "law/gc.png",
+      "fullDesc": "earned a JD from Southwestern Law School."
+    },
+    {
+      "name": "Alex Karp",
+      "desc": "CEO of Palantir Technologies",
+      "bool": true,
+      "photo": "law/ak.png",
+      "fullDesc": "earned a JD from Stanford University."
+    },
+    {
+      "name": "Jagmeet Singh",
+      "desc": "Politician/Leader of New Democratic Party of Canada",
+      "bool": true,
+      "photo": "law/jas.png",
+      "fullDesc": "earned a LLB from York University."
+    },
+    {
+      "name": "Valentine Thomas",
+      "desc": "Canandian freediving Instructor and Spear-fisher,",
+      "bool": true,
+      "photo": "law/vt.png",
+      "fullDesc": "earned a Masters in Law from University of Montreal."
+    },
+    {
+      "name": "Nina Zagat",
+      "desc": "Co-Founder of Zagat Restaurant Reviews",
+      "bool": true,
+      "photo": "law/nz.png",
+      "fullDesc": "earned a JD from Yale Law School"
+    },
+    {
+      "name": "Will Shortz",
+      "desc": "New York Times crossword editor",
+      "bool": true,
+      "photo": "law/ws.png",
+      "fullDesc": "earned a JD from University of Virginia."
+    },
+    {
+      "name": "Pat Robertson",
+      "desc": "TV Evangelist",
+      "bool": true,
+      "photo": "law/pr.png",
+      "fullDesc": "earned a JD from Yale Law School"
+    },
+    {
+      "name": "Michelle Obama",
+      "desc": "Former First Lady of United States",
+      "bool": true,
+      "photo": "law/mo.png",
+      "fullDesc": "earned a JD from Harvard Law School"
+    },
+    {
+      "name": "Sonam Dechan Wangchuck",
+      "desc": "Princess of Bhutan",
+      "bool": true,
+      "photo": "law/sw.png",
+      "fullDesc": "earned an LLM from Harvard Law School."
+    },
+    {
+      "name": "Capital D",
+      "desc": "Hip Hop Artist",
+      "bool": true,
+      "photo": "law/cd.png",
+      "fullDesc": "earned a JD from University of Illinois."
+    },
+    {
+      "name": "Howard W. Hunter",
+      "desc": "Former President of Mormon Church of Latter Day Saints",
+      "bool": true,
+      "photo": "law/hh.png",
+      "fullDesc": "earned a JD from Southwestern Law School."
+    },
+    {
+      "name": "Roh Moo-hyun",
+      "desc": "Former President of South Korea",
+      "bool": true,
+      "photo": "law/rh.png",
+      "fullDesc": "passed Korean Bar Exam to practice law (never attended law school)."
+    },
+    {
+      "name": "Jerome Powell",
+      "desc": "Chairman of the Federal Reserve",
+      "bool": true,
+      "photo": "law/jp.png",
+      "fullDesc": "earned a JD from Georgetown University Law Center"
+    },
+    {
+      "name": "John Grisham",
+      "desc": "Best Selling Author and Novelist",
+      "bool": true,
+      "photo": "law/jg.png",
+      "fullDesc": "earned a JD from University of Mississippi"
+    },
+    {
+      "name": "Cenk Uygur",
+      "desc": "Political Commentator and Creator of The Young Turks",
+      "bool": true,
+      "photo": "law/cu.png",
+      "fullDesc": "earned a JD from Columbia University"
+    },
+    {
+      "name": "Rashida Tlaib",
+      "desc": "First Palestinian American Congresswoman",
+      "bool": true,
+      "photo": "law/rt.png",
+      "fullDesc": "earned a JD from Thomas Cooley Law School"
+    },
+    {
+      "name": "Vladimir Putin",
+      "desc": "President of Russia",
+      "bool": true,
+      "photo": "law/vp.png",
+      "fullDesc": "earned a law degree from Saint Petersburg State University."
+    },
+    {
+      "name": "Harvey Levin",
+      "desc": "Founder of TMZ - Celebrity Gossip Channel",
+      "bool": true,
+      "photo": "law/hl.png",
+      "fullDesc": "earned a JD from University of Chicago."
+    },
+    {
+      "name": "John F. Kennedy Jr.",
+      "desc": "Editor of George Magazine and Son of President John F. Kennedy Sr.",
+      "bool": true,
+      "photo": "law/jfk.png",
+      "fullDesc": "earned a JD from NYU Law School."
+    }
+  ]
+}
